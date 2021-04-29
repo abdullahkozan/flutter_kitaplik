@@ -1,6 +1,9 @@
 # kitaplik
 
+Bu uygulama Dr. Öğretim Üyesi Ahmet Cevahir ÇINAR tarafından yürütülen 3311409 kodlu MOBİL PROGRAMLAMA dersi kapsamında 193311061 numaralı Abdullah KOZAN tarafından 30 Nisan 2021 günü yapılmıştır.
+
 A new Flutter application.
+
 
 ## Getting Started
 
